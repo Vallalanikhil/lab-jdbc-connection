@@ -7,7 +7,7 @@ import utility.ConnectionManager;
 public class Main {
 	public static void main(String args[]) {
 		
-	// Fill your code
+ Connection cn=new Connection();
 		
 	}
 }
